@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sofia
+Holaaa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Sofia
 =============================================================================================================================
 
 Web Developer
 -------------
-
+#<img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
 Soy una estudiante apasionada de T.S.U en Desarrollo de Software en Multiplataforma en la Universidad UTFV. Aunque aún no cuento con experiencia laboral en el campo, mi dedicación y enfoque en el Front-end me han permitido adquirir habilidades sólidas en la creación de interfaces intuitivas y atractivas.
 
 * 🌍  Estoy en Mexico
