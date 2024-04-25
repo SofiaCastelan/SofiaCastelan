@@ -3,7 +3,7 @@ Holaaa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 Web Developer
 -------------
-#<img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZncXRkMTd1YnJxOHhmeDMzempib2o5Y2VnNGdlcWxiZWM3N2t4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM87K8JyYf9U4/giphy.gif" width="200"/>
 Soy una estudiante apasionada de T.S.U en Desarrollo de Software en Multiplataforma en la Universidad UTFV. Aunque aún no cuento con experiencia laboral en el campo, mi dedicación y enfoque en el Front-end me han permitido adquirir habilidades sólidas en la creación de interfaces intuitivas y atractivas.
 
 * 🌍  Estoy en Mexico
